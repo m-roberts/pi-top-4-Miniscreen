@@ -1,3 +1,14 @@
+pi-top-4-miniscreen (7.3.0-2) bullseye; urgency=medium
+
+  * Build for arm64
+  * Point to fork Debian package building image
+  * Point to forked Debian package building action
+  * Revert "Point to forked Debian package building action"
+  * Point to forked Debian package building action
+  * Point to forked Debian package building action arm64 branch
+
+ -- pi-top <deb-maintainers@pi-top.com>  Tue, 08 Nov 2022 13:02:44 +0000
+
 pi-top-4-miniscreen (7.3.0-1) bullseye; urgency=medium
 
   * refactor: remove miniscreen from core app
